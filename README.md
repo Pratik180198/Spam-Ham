@@ -22,14 +22,14 @@ Link: [https://spam-ham-nlp-model.herokuapp.com/](https://spam-ham-nlp-model.her
 ## Screenshots
 
 #### CHECKING PART 1 
+
 <a href="url"><img src="https://github.com/Pratik180198/Spam-Ham/blob/master/Screenshots/Screenshot%20(69).png"></a>
---------------------------------------------------------------------------------------------------------------------
 <a href="url"><img src="https://github.com/Pratik180198/Spam-Ham/blob/master/Screenshots/Screenshot%20(70).png"></a>
---------------------------------------------------------------------------------------------------------------------
+
 #### CHECKING PART 2
+
 <a href="url"><img src="https://github.com/Pratik180198/Spam-Ham/blob/master/Screenshots/Screenshot%20(72).png"></a>
---------------------------------------------------------------------------------------------------------------------
 <a href="url"><img src="https://github.com/Pratik180198/Spam-Ham/blob/master/Screenshots/Screenshot%20(71).png"></a>
---------------------------------------------------------------------------------------------------------------------
+
 
 
