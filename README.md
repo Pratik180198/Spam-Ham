@@ -10,6 +10,7 @@
   * [Bug / Feature Request](#bug--feature-request)
   * [Technologies Used](#technologies-used)
   * [Team](#team)
+  * [Contact](#contact) 
   
 ## Dataset
 The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam.
@@ -90,3 +91,36 @@ Unigrams usually don’t contain much information as compared to bigrams and tri
 It computes “relative frequency” that a word appears in a document compared to its frequency across all documents. It is more useful than “term frequency” for identifying “important” words in each document (high frequency in that document, low frequency in other documents). Note: Used for search engine scoring, text summarization, document clustering.
 
 TF-IDF is applied on the body_text, so the relative count of each word in the sentences is stored in the document matrix. (Check the repo). Note: Vectorizers outputs sparse matrices. Sparse Matrix is a matrix in which most entries are 0. In the interest of efficient storage, a sparse matrix will be stored by only storing the locations of the non-zero elements.
+
+#### 8. Making Model and Evaluation Metrics
+
+In this Spam-Ham NLP project we had used Support Vector Classifier, Logistic Regression, Naive Bayes, Random Forest Classifier in which SVC works well with 99.83% accuracy. Evaluation metrics are also used like accuracy_score, confusion metrics, classification report.
+
+#### 9. Model Deployment
+
+
+
+## Bug / Feature Request
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/Pratik180198/Spam-Ham/issues/new) by including your search query and the expected result.
+
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/Pratik180198/Spam-Ham/issues/new). Please include sample queries and their corresponding results.
+
+## Technologies Used
+
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/><img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
+
+## Team
+
+[<img target="_blank" src="https://avatars.githubusercontent.com/u/72552513?v=4" width=170>](https://github.com/Pratik180198) |
+-|
+[Pratik Bambulkar](https://github.com/Pratik180198) |)
+
+
+## Contact
+
+You can reach me : 
+
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/pratikkk______/)
+[<img alt="Gmail" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](https://mail.google.com/mail/?view=cm&fs=1&to=pratikbambulkar1818@gmail.com&su=Bank_Note_Authentication&body=BODY)
+[<img alt="Facebook" src= "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>](http://www.facebook.com/100004659334096/)
+[<img alt="Linkedin" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/pratik-bambulkar-06241116a/)
