@@ -31,5 +31,18 @@ Link: [https://spam-ham-nlp-model.herokuapp.com/](https://spam-ham-nlp-model.her
 <a href="url"><img src="https://github.com/Pratik180198/Spam-Ham/blob/master/Screenshots/Screenshot%20(72).png"></a>
 <a href="url"><img src="https://github.com/Pratik180198/Spam-Ham/blob/master/Screenshots/Screenshot%20(71).png"></a>
 
+## Methodology
 
+### Create Virtual Environment
+It is always a good practise to create a virtual environment and mostly it is very useful while deploying app. To create virtual environment for python and jupyter follow this link : https://janakiev.com/blog/jupyter-virtual-envs/
 
+### (Natural Language Toolkit) NLTK:
+NLTK is a popular open-source package in Python. Rather than building all tools from scratch, NLTK provides all common NLP Tasks.
+
+Installing NLTK Library
+
+```bash
+!pip install nltk 
+```
+
+Type above code in the Jupyter Notebook or if it doesn’t work, type this in your cmd prompt "pip install nltk". This should work in most cases. Install NLTK: http://pypi.python.org/pypi/nltk
