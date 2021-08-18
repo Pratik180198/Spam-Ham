@@ -38,11 +38,8 @@ It is always a good practise to create a virtual environment and mostly it is ve
 
 ### (Natural Language Toolkit) NLTK:
 NLTK is a popular open-source package in Python. Rather than building all tools from scratch, NLTK provides all common NLP Tasks.
-
 Installing NLTK Library
-
 ```bash
 !pip install nltk 
 ```
-
 Type above code in the Jupyter Notebook or if it doesn’t work, type this in your cmd prompt "pip install nltk". This should work in most cases. Install NLTK: http://pypi.python.org/pypi/nltk
