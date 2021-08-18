@@ -43,7 +43,11 @@ Installing NLTK Library
 !pip install nltk 
 ```
 Type above code in the Jupyter Notebook or if it doesn’t work, type this in your cmd prompt "pip install nltk". This should work in most cases. Install NLTK: http://pypi.python.org/pypi/nltk
+
 Importing NLTK Library
+
 -> import nltk
+
 -> nltk.download()
+
 Download the packages.
