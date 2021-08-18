@@ -13,7 +13,14 @@
   
 ## Dataset
 The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam.
+
 Dataset link : https://www.kaggle.com/uciml/sms-spam-collection-dataset
 
 ## Demo
-Link: [https://bank-money-api.herokuapp.com/](https://bank-money-api.herokuapp.com/)
+Link: [https://spam-ham-nlp-model.herokuapp.com/](https://spam-ham-nlp-model.herokuapp.com/)
+
+## Screenshots
+<a href="url"><img src="https://github.com/Pratik180198/Spam-Ham/blob/master/Screenshots/Screenshot%20(69).png"  height="500" width="550" ></a>
+
+<a href="url"><img src="https://github.com/Pratik180198/Spam-Ham/blob/master/Screenshots/Screenshot%20(70).png"  height="500" width="550" ></a>
+
