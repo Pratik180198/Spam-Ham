@@ -1,6 +1,16 @@
 # Spam-Ham-Classifier 
 ## A Machine learning classifier to predict whether the SMS is Spam or Ham by using Natural Language Processing (NLP)
 
+<h1 align="center">
+  <br>
+  <a href="url"><img src="https://github.com/Pratik180198/Spam-Ham/blob/master/Screenshots/logo1.png" alt="SpamClassifier"></a>
+  <br>
+  SpamClassifier
+  <br>
+</h1>
+<h4 align="center">In this project I build a model for classifying the SMS/Email into spam or ham through the text of the SMS/Email using standard classifiers.</h4>
+
+
 ## Table of Content
 
   * [Dataset](#dataset)
@@ -13,7 +23,13 @@
   * [Contact](#contact) 
   
 ## Dataset
-The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam.
+The SMS/Email Spam Collection is a set of SMS tagged messages that have been collected for SMS/Email Spam research. It contains one set of SMS messages in English of 5,567 messages, tagged according being ham (legitimate) or spam.
+
+> You can collect raw dataset from [here](https://github.com/Pratik180198/Spam-Ham/blob/master/spam.csv).
+
+The files contain one message per line. Each line is composed by two columns:
+- `Class`- contains the label (ham or spam) 
+- `Message` - contains the raw text.
 
 Dataset link : https://www.kaggle.com/uciml/sms-spam-collection-dataset
 
@@ -97,6 +113,12 @@ Unigrams usually don’t contain much information as compared to bigrams and tri
 It computes “relative frequency” that a word appears in a document compared to its frequency across all documents. It is more useful than “term frequency” for identifying “important” words in each document (high frequency in that document, low frequency in other documents). Note: Used for search engine scoring, text summarization, document clustering.
 
 TF-IDF is applied on the body_text, so the relative count of each word in the sentences is stored in the document matrix. (Check the repo). Note: Vectorizers outputs sparse matrices. Sparse Matrix is a matrix in which most entries are 0. In the interest of efficient storage, a sparse matrix will be stored by only storing the locations of the non-zero elements.
+
+<p align="center">
+  <br>
+  <img src="https://github.com/Pratik180198/Spam-Ham/blob/master/Screenshots/modelLearning.png">
+</p>
+
 
 ### 9. Making Model and Evaluation Metrics
 
