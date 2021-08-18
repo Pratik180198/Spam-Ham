@@ -104,7 +104,7 @@ In this Spam-Ham NLP project we had used Support Vector Classifier, Logistic Reg
 
 ### 10. Model Deployment
 
-This web app is made with the help of Flask. The Web UI is made by Anuj Vyas thanks for the UI [Anuj Vyas](https://github.com/anujvyas)
+This web app is made with the help of Flask. The Web UI is made by Anuj Vyas thanks for the UI [Anuj Vyas](https://github.com/anujvyas).
 
 To deploy this app we are using Heroku Platform. You must first register on [Heroku](https://www.heroku.com/home).
 Create your new app and give the app name and start deploying with the help of Heroku CLI command or connect your Github account.
